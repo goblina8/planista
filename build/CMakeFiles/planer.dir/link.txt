@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/planer.dir/src/funkcje.cpp.o CMakeFiles/planer.dir/src/main.cpp.o CMakeFiles/planer.dir/src/priority_queue.cpp.o CMakeFiles/planer.dir/src/procesor.cpp.o CMakeFiles/planer.dir/src/strategia.cpp.o  -o planer 

@@ -1,0 +1,3 @@
+/home/gabriela/Pulpit/opsys_czw19/opsys_czw19/planer/build/CMakeFiles/rebuild_cache.dir
+/home/gabriela/Pulpit/opsys_czw19/opsys_czw19/planer/build/CMakeFiles/edit_cache.dir
+/home/gabriela/Pulpit/opsys_czw19/opsys_czw19/planer/build/CMakeFiles/planer.dir

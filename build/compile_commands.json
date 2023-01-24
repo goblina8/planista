@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/home/gabriela/Pulpit/opsys_czw19/opsys_czw19/lamacz_hasel/build",
+  "command": "/bin/x86_64-linux-gnu-gcc-9  -I/home/gabriela/Pulpit/opsys_czw19/opsys_czw19/lamacz_hasel/inc  -g   -o CMakeFiles/polamaniec.dir/src/funkcje.c.o   -c /home/gabriela/Pulpit/opsys_czw19/opsys_czw19/lamacz_hasel/src/funkcje.c",
+  "file": "/home/gabriela/Pulpit/opsys_czw19/opsys_czw19/lamacz_hasel/src/funkcje.c"
+},
+{
+  "directory": "/home/gabriela/Pulpit/opsys_czw19/opsys_czw19/lamacz_hasel/build",
+  "command": "/bin/x86_64-linux-gnu-gcc-9  -I/home/gabriela/Pulpit/opsys_czw19/opsys_czw19/lamacz_hasel/inc  -g   -o CMakeFiles/polamaniec.dir/src/hasz.c.o   -c /home/gabriela/Pulpit/opsys_czw19/opsys_czw19/lamacz_hasel/src/hasz.c",
+  "file": "/home/gabriela/Pulpit/opsys_czw19/opsys_czw19/lamacz_hasel/src/hasz.c"
+},
+{
+  "directory": "/home/gabriela/Pulpit/opsys_czw19/opsys_czw19/lamacz_hasel/build",
+  "command": "/bin/x86_64-linux-gnu-gcc-9  -I/home/gabriela/Pulpit/opsys_czw19/opsys_czw19/lamacz_hasel/inc  -g   -o CMakeFiles/polamaniec.dir/src/lamanie5.c.o   -c /home/gabriela/Pulpit/opsys_czw19/opsys_czw19/lamacz_hasel/src/lamanie5.c",
+  "file": "/home/gabriela/Pulpit/opsys_czw19/opsys_czw19/lamacz_hasel/src/lamanie5.c"
+},
+{
+  "directory": "/home/gabriela/Pulpit/opsys_czw19/opsys_czw19/lamacz_hasel/build",
+  "command": "/bin/x86_64-linux-gnu-gcc-9  -I/home/gabriela/Pulpit/opsys_czw19/opsys_czw19/lamacz_hasel/inc  -g   -o CMakeFiles/polamaniec.dir/src/main.c.o   -c /home/gabriela/Pulpit/opsys_czw19/opsys_czw19/lamacz_hasel/src/main.c",
+  "file": "/home/gabriela/Pulpit/opsys_czw19/opsys_czw19/lamacz_hasel/src/main.c"
+}
+]
